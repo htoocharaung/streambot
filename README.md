@@ -9,7 +9,7 @@
     <code>If you want to make your own with my code, please give the copyright, thanks.</code>
 </p>
 
-##Commands:
+## Commands:
 - /stream (query) -> Play video via youtube
 - /end -> End the Streaming
 
