@@ -7,4 +7,4 @@ RUN mkdir /streambot/
 COPY . /streambot/
 WORKDIR /streambot/
 RUN pip3 install -U -r requirements.txt
-CMD python3 -m cofeesix
+CMD python3 -m coffeesix
