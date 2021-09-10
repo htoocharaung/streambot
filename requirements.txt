@@ -5,3 +5,4 @@ pytube==11.0.1
 pafy==0.5.5
 youtube-search==2.1.0
 youtube-dl==2021.6.6
+TgCrypto
