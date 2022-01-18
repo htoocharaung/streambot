@@ -1,0 +1,33 @@
+{
+    "name": "Bin-Checker Bot မြန်မာ ဗားရှင်း",
+        "description": "bin တွေ သုံးလို့ ရမရ စစ်ဖို့အတွက် သုံးနိုင်တဲ့ Bin Checker ဖြစ်ပါတယ်။",
+            "keywords": [
+                    "Stream",
+                            "Bot",
+                                    "Telegram"
+                                        ],
+                                            "website": "#TODO",
+                                                "repository": "https://github.com/htoocharaung/Bin-Checker",
+                                                    "success_url": "/",
+                                                        "env": {
+                                                                "BOT_TOKEN": {
+                                                                            "description": "@BotFather ကနေ TOKEN ယူပြီး ထည့်ပါ"
+                                                                                    },
+                                                                                            "app_id": {
+                                                                                                        "description": "start message မှာ ဖော်ပြ စေချင်တာ ထည့်ပါ"
+                                                                                                                },
+"api_hash": {
+                                                                                                        "description": "start message မှာ ဖော်ပြ စေချင်တာ ထည့်ပါ"
+                                                                                                                                                                                                                        },       
+"string": {
+                                                                                                        "description": "start message မှာ ဖော်ပြ စေချင်တာ ထည့်ပါ"
+                                                                                                                                                                                                                        }                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                                                    },
+                                                                                                                        "formation": {
+                                                                                                                                "web": {
+                                                                                                                                            "quantity": 1,
+                                                                                                                                                        "size": "free"
+                                                                                                                                                                }
+                                                                                                                                                                    },
+                                                                                                                                                                        "image": "heroku/python"
+                                                                                                                                                                        }
