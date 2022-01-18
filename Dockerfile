@@ -3,6 +3,7 @@ FROM python:latest
 RUN apt update && apt upgrade -y
 RUN apt install git curl python3-pip ffmpeg -y
 RUN pip3 install -U pip
+RUN python -m pip install gunicorn
 RUN mkdir /streambot/
 COPY . /streambot/
 WORKDIR /streambot/
