@@ -13,13 +13,13 @@
                                                                 "BOT_TOKEN": {
                                                                             "description": "@BotFather ကနေ TOKEN ယူပြီး ထည့်ပါ"
                                                                                     },
-                                                                                            "app_id": {
+                                                                                            "API_ID": {
                                                                                                         "description": "start message မှာ ဖော်ပြ စေချင်တာ ထည့်ပါ"
                                                                                                                 },
-"api_hash": {
+"API_HASH": {
                                                                                                         "description": "start message မှာ ဖော်ပြ စေချင်တာ ထည့်ပါ"
                                                                                                                                                                                                                         },       
-"string": {
+"SESSION": {
                                                                                                         "description": "start message မှာ ဖော်ပြ စေချင်တာ ထည့်ပါ"
                                                                                                                                                                                                                         }                                                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                                     },
