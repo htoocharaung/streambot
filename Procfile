@@ -1,1 +1,1 @@
-worker: python3 -m coffeesix
+web: python3 -m coffeesix
